@@ -136,6 +136,9 @@ collaborators:
     url: https://github.com/jh-devv
   - &stellophiliac
     url: https://github.com/stellophiliac
+  - &mudkipdev
+    name: mudkip
+    url: https://github.com/mudkipdev
 
 userstyles:
   advent-of-code:
@@ -495,6 +498,13 @@ userstyles:
     readme:
       app-link: "https://invoke-ai.github.io/InvokeAI"
     current-maintainers: [*ryanccn]
+  javadoc:
+    name: Javadoc
+    categories: [development]
+    color: peach
+    readme:
+      app-link: "https://docs.oracle.com/en/java/javase/21/docs/api/index.html"
+    current-maintainers: [*mudkipdev]
   keyoxide:
     name: Keyoxide
     categories: [development]
